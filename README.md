@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @JasmineNguyen909
+- 👀 I’m interested in digital marketing, data analysis, financial analysis, business intelligence, and exploring new technologies.
+- 🌱 I’m currently learning various tools and techniques in data analysis and visualization, including R programming language.
+- 💞️ I’m looking to collaborate on projects related to digital marketing campaigns, data analysis projects, financial analysis, business intelligence, or any other innovative ventures.
+- 📫 You can reach me via email at huongnt909@gmail.com
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I enjoy exploring new hiking trails in my free time and experimenting with new recipes in the kitchen!
