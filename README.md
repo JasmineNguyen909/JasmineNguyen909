@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @JasmineNguyen909
-- 👀 I’m interested in digital marketing, data analysis, financial analysis, business intelligence, and exploring new technologies.
-- 🌱 I’m currently learning various tools and techniques in data analysis and visualization, including R programming language.
-- 💞️ I’m looking to collaborate on projects related to digital marketing campaigns, data analysis projects, financial analysis, business intelligence, or any other innovative ventures.
-- 📫 You can reach me via email at huongnt909@gmail.com
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I enjoy exploring new hiking trails in my free time and experimenting with new recipes in the kitchen!
+### Hi, I'm Jasmine 👋
+
+Business analyst and lead consultant at **[Taskfold Consulting](https://taskfoldconsulting.com)**. I build speed-to-lead, CRM and AI automation systems so business owners answer every lead in minutes and follow up on time.
+
+- 🏢 Before Taskfold: Citi (counterparty credit risk reporting), KPMG (AI requirements agent), IBM and Vietnam Airlines
+- 📈 Client results (client-reported): +15% policies written · about 20 hours a week of manual work removed
+- 🛠️ I build with: n8n · Python · Claude and OpenAI APIs · Twilio · Postgres · SQL · Tableau · Power BI
+- 🔗 [Website](https://taskfoldconsulting.com) · [About me](https://taskfoldconsulting.com/links/) · [LinkedIn](https://www.linkedin.com/in/jasmine909/)
+- 📫 jasmine@taskfoldconsulting.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I enjoy exploring new hiking trails and experimenting with new recipes in the kitchen!
